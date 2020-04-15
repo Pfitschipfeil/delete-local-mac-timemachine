@@ -4,7 +4,7 @@ Be careful! This script will delete all your local macOS Time Machine snapshots.
 Usage:  
 1. Copy the file "delete-local-timemachine.sh" to a folder you desire
 2. Start a **Terminal**
-3. Change the directory to the directory where delete-local-timemachine.sh is
+3. Change the directory to the directory where delete-local-timemachine.sh is located
 4. Type ```bash delete-local-timemachine.sh```
 5. The Terminal will ask you for your su (Super User) password
 6. Wait until you see **High five!** and your local Time Machine backups are deleted
