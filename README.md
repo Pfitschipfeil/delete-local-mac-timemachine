@@ -8,5 +8,3 @@ Usage:
 4. Type ```bash delete-local-timemachine.sh```
 5. The Terminal will ask you for your su (Super User) password
 6. Wait until you see **High five!** and your local Time Machine backups are deleted
-
-OpenSource by RR | Luv u Marlene
